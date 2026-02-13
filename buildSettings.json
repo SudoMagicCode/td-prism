@@ -1,8 +1,8 @@
 {
     "BUILD": "TRUE",
-    "TD_VERSION": "2023.12230",
+    "TD_VERSION": "2025.32280",
     "PROJECT_FILE": "./TouchDesigner/project.toe",
-    "COMP_NAME": "Empty",
+    "COMP_NAME": "prism",
     "BUILD_CONTENTS": "packageZip",
-    "USE_TDM": false
+    "USE_TDM": true
 }

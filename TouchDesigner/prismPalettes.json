@@ -1,0 +1,48 @@
+{
+    "26a4c250-084a-11f1-879f-ada6e8671aaa": {
+        "uuid": "26a4c250-084a-11f1-879f-ada6e8671aaa",
+        "name": "Macao Classic",
+        "colors": [
+            "FFDB94",
+            "FFAC07",
+            "E93111",
+            "099469",
+            "A7DFBE"
+        ]
+    },
+    "a1b594b0-084a-11f1-879f-ada6e8671aaa": {
+        "uuid": "a1b594b0-084a-11f1-879f-ada6e8671aaa",
+        "name": "Macao Contemporary",
+        "colors": [
+            "00F1EC",
+            "009BFF",
+            "545AFF",
+            "8800FF",
+            "BB73FF"
+        ]
+    },
+    "bd1d1d40-084a-11f1-879f-ada6e8671aaa": {
+        "uuid": "bd1d1d40-084a-11f1-879f-ada6e8671aaa",
+        "name": "Macao Contemporary 1",
+        "colors": [
+            "FF4A6C",
+            "FF7C1A",
+            "FFE277",
+            "52E2C8",
+            "00D1FD",
+            "FF98E6",
+            "FFCAF8"
+        ]
+    },
+    "e098abe0-084a-11f1-879f-ada6e8671aaa": {
+        "uuid": "e098abe0-084a-11f1-879f-ada6e8671aaa",
+        "name": "Macao Contemporary 2",
+        "colors": [
+            "FF0066",
+            "FF6700",
+            "FFC800",
+            "00A269",
+            "0063E3"
+        ]
+    }
+}
